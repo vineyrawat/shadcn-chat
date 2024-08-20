@@ -7,6 +7,7 @@
    
 </div>
 
+```This tool is going to be deprecated soon```
 
 <p align="center">Customizable and re-usable chat component for you to use in your projects. Built on top of shadcn.</p>
 
